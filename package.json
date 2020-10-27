@@ -5,7 +5,7 @@
   "license": "MIT",
   "jsdelivr": "dist/chartjs-plugin-zoom.min.js",
   "unpkg": "dist/chartjs-plugin-zoom.min.js",
-  "main": "src/plugin.js",
+  "main": "dist/chartjs-plugin-zoom.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/chartjs/chartjs-plugin-zoom.git"
