@@ -716,7 +716,9 @@ var zoomPlugin = {
 			mc.remove('panend');
 			mc.destroy();
 		}
-	}
+	},
+
+	doZoom: doZoom,
 };
 
 Chart.plugins.register(zoomPlugin);
